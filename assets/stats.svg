@@ -1,0 +1,55 @@
+<svg width="600" height="270" viewBox="0 0 600 270" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0d1117"/>
+      <stop offset="100%" stop-color="#161b22"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#34d399"/>
+      <stop offset="100%" stop-color="#fbbf24"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="600" height="270" rx="14" fill="url(#bg)"/>
+  <rect x="1" y="1" width="598" height="268" rx="13" fill="none" stroke="#30363d" stroke-width="1.5"/>
+
+  <rect x="1" y="1" width="598" height="40" rx="13" fill="#161b22"/>
+  <rect x="1" y="28" width="598" height="13" fill="#161b22"/>
+  <circle cx="28" cy="21" r="6" fill="#ff5f56"/>
+  <circle cx="48" cy="21" r="6" fill="#ffbd2e"/>
+  <circle cx="68" cy="21" r="6" fill="#27c93f"/>
+  <text x="300" y="26" font-family="'Cascadia Code','Courier New',monospace" font-size="12" fill="#8b949e" text-anchor="middle">samarth@dev &#8212; gh-stats</text>
+
+  <g font-family="'Cascadia Code','Courier New',monospace">
+    <text x="30" y="80" font-size="17" fill="#34d399">$ <tspan fill="#e6edf3">gh api users/Sambully</tspan></text>
+
+    <text x="30" y="118" font-size="15" fill="#8b949e">public_repos</text>
+    <text x="230" y="118" font-size="20" font-weight="700" fill="#fbbf24">16</text>
+
+    <text x="300" y="118" font-size="15" fill="#8b949e">followers</text>
+    <text x="440" y="118" font-size="20" font-weight="700" fill="#fbbf24">6</text>
+
+    <text x="30" y="150" font-size="15" fill="#8b949e">following</text>
+    <text x="230" y="150" font-size="20" font-weight="700" fill="#fbbf24">11</text>
+
+    <text x="300" y="150" font-size="15" fill="#8b949e">since</text>
+    <text x="440" y="150" font-size="20" font-weight="700" fill="#fbbf24">2022</text>
+
+    <text x="30" y="192" font-size="17" fill="#34d399">$ <tspan fill="#e6edf3">top --languages</tspan></text>
+
+    <!-- language bar -->
+    <rect x="30" y="208" width="540" height="14" rx="7" fill="#21262d"/>
+    <rect x="30" y="208" width="360" height="14" rx="7" fill="#f7df1e"/>
+    <rect x="390" y="208" width="135" height="14" rx="7" fill="#3178c6"/>
+    <rect x="525" y="208" width="45" height="14" rx="7" fill="#e34c26"/>
+
+    <g font-size="13">
+      <circle cx="36" cy="245" r="5" fill="#f7df1e"/>
+      <text x="48" y="249" fill="#c9d1d9">JavaScript 66.7%</text>
+      <circle cx="216" cy="245" r="5" fill="#3178c6"/>
+      <text x="228" y="249" fill="#c9d1d9">TypeScript 25%</text>
+      <circle cx="396" cy="245" r="5" fill="#e34c26"/>
+      <text x="408" y="249" fill="#c9d1d9">HTML 8.3%</text>
+    </g>
+  </g>
+</svg>

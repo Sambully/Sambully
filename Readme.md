@@ -142,8 +142,7 @@ one another directly, with no money involved.
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="185em" src="https://github-readme-stats.vercel.app/api?username=Sambully&show_icons=true&include_all_commits=true&hide=stars,prs,issues&hide_border=true&border_radius=10&bg_color=0d1117&title_color=34d399&icon_color=fbbf24&text_color=c9d1d9" alt="Samarth's GitHub stats" />
-  <img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sambully&layout=compact&langs_count=8&hide_border=true&border_radius=10&bg_color=0d1117&title_color=34d399&text_color=c9d1d9" alt="Top languages" />
+  <img src="assets/stats.svg" width="600" alt="Samarth's GitHub stats" />
 </p>
 
 <img src="assets/divider.svg" width="100%" alt="" />

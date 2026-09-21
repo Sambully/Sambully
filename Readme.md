@@ -16,21 +16,21 @@
 
 <img src="assets/divider.svg" width="100%" alt="" />
 
-<p align="center"><img src="assets/title-about.svg" width="260" alt="About Me" /></p>
+## 👋 About Me
 
-I'm **Samarth** — a Computer Science engineering student and full-stack developer who enjoys
-turning real-world problems into working software, with a growing focus on applied AI.
+Third-year CS undergrad who spends more time shipping side projects than expected. Started out
+building plain full-stack apps, drifted into AI agents somewhere along the way, and now that's
+where most of my free time goes.
 
-- 🔭 **Currently building** — AI agents and intelligent automation systems as a **Fullstack & AI Engineer Intern**
-- 🧠 **Focused on** — full-stack architecture, AI agent pipelines, and automation workflows
-- 🌱 **Sharpening** — agentic AI systems, Data Structures & Algorithms
-- 🎓 **B.Tech in Computer Science** — AITR Indore, affiliated to RGPV Bhopal &nbsp;(CGPA 8.04, Class of 2027)
-- 🤝 **Open to** — software engineering internships & collaboration on interesting projects
-- ⚡ **Motto** — *build solutions, not just code*
+**Studying** &nbsp;B.Tech Computer Science at AITR Indore (RGPV Bhopal) — CGPA 8.04, graduating 2027
+**Interning** &nbsp;as a Fullstack & AI Engineer, building AI agents and automation pipelines
+**Tinkering with** &nbsp;a browser-based AI code IDE, a digital-companion assistant, and a marketplace app on the side
+**Next up** &nbsp;going deeper on DSA and agentic AI system design
+**Down for** &nbsp;SWE/AI internships and collabs on things worth building
 
 <img src="assets/divider.svg" width="100%" alt="" />
 
-<p align="center"><img src="assets/title-experience.svg" width="240" alt="Experience" /></p>
+## 💼 Experience
 
 <table>
 <tr><td width="100%">
@@ -48,7 +48,7 @@ across multiple internal products.
 
 <img src="assets/divider.svg" width="100%" alt="" />
 
-<p align="center"><img src="assets/title-projects.svg" width="330" alt="Featured Projects" /></p>
+## 🌟 Featured Projects
 
 <table>
 <tr>
@@ -107,7 +107,7 @@ one another directly, with no money involved.
 
 <img src="assets/divider.svg" width="100%" alt="" />
 
-<p align="center"><img src="assets/title-stack.svg" width="230" alt="Tech Stack" /></p>
+## 🛠️ Tech Stack
 
 <table align="center">
 <tr><td align="center"><b>Languages</b></td><td>
@@ -128,7 +128,7 @@ one another directly, with no money involved.
 
 <img src="assets/divider.svg" width="100%" alt="" />
 
-<p align="center"><img src="assets/title-hackathons.svg" width="420" alt="Hackathons & Competitions" /></p>
+## 🏆 Hackathons & Competitions
 
 | Event | Result |
 |:---|:---|
@@ -139,7 +139,7 @@ one another directly, with no money involved.
 
 <img src="assets/divider.svg" width="100%" alt="" />
 
-<p align="center"><img src="assets/title-stats.svg" width="310" alt="GitHub Analytics" /></p>
+## 📊 GitHub Analytics
 
 <p align="center">
   <img height="185em" src="https://github-readme-stats.vercel.app/api?username=Sambully&show_icons=true&include_all_commits=true&hide=stars,prs,issues&hide_border=true&border_radius=10&bg_color=0d1117&title_color=34d399&icon_color=fbbf24&text_color=c9d1d9" alt="Samarth's GitHub stats" />
@@ -148,7 +148,7 @@ one another directly, with no money involved.
 
 <img src="assets/divider.svg" width="100%" alt="" />
 
-<p align="center"><img src="assets/title-connect.svg" width="240" alt="Let's Connect" /></p>
+## 🤝 Let's Connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/samarth-pal-908922290/" target="_blank">

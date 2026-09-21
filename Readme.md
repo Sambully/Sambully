@@ -16,7 +16,7 @@
 
 <img src="assets/divider.svg" width="100%" alt="" />
 
-## 👋 About Me
+<p align="center"><img src="assets/title-about.svg" width="260" alt="About Me" /></p>
 
 I'm **Samarth** — a Computer Science engineering student and full-stack developer who enjoys
 turning real-world problems into working software, with a growing focus on applied AI.
@@ -30,7 +30,7 @@ turning real-world problems into working software, with a growing focus on appli
 
 <img src="assets/divider.svg" width="100%" alt="" />
 
-## 💼 Experience
+<p align="center"><img src="assets/title-experience.svg" width="240" alt="Experience" /></p>
 
 <table>
 <tr><td width="100%">
@@ -48,7 +48,7 @@ across multiple internal products.
 
 <img src="assets/divider.svg" width="100%" alt="" />
 
-## 🌟 Featured Projects
+<p align="center"><img src="assets/title-projects.svg" width="330" alt="Featured Projects" /></p>
 
 <table>
 <tr>
@@ -107,7 +107,7 @@ one another directly, with no money involved.
 
 <img src="assets/divider.svg" width="100%" alt="" />
 
-## 🛠️ Tech Stack
+<p align="center"><img src="assets/title-stack.svg" width="230" alt="Tech Stack" /></p>
 
 <table align="center">
 <tr><td align="center"><b>Languages</b></td><td>
@@ -128,7 +128,7 @@ one another directly, with no money involved.
 
 <img src="assets/divider.svg" width="100%" alt="" />
 
-## 🏆 Hackathons & Competitions
+<p align="center"><img src="assets/title-hackathons.svg" width="420" alt="Hackathons & Competitions" /></p>
 
 | Event | Result |
 |:---|:---|
@@ -139,7 +139,7 @@ one another directly, with no money involved.
 
 <img src="assets/divider.svg" width="100%" alt="" />
 
-## 📊 GitHub Analytics
+<p align="center"><img src="assets/title-stats.svg" width="310" alt="GitHub Analytics" /></p>
 
 <p align="center">
   <img height="185em" src="https://github-readme-stats.vercel.app/api?username=Sambully&show_icons=true&include_all_commits=true&hide=stars,prs,issues&hide_border=true&border_radius=10&bg_color=0d1117&title_color=34d399&icon_color=fbbf24&text_color=c9d1d9" alt="Samarth's GitHub stats" />
@@ -148,7 +148,7 @@ one another directly, with no money involved.
 
 <img src="assets/divider.svg" width="100%" alt="" />
 
-## 🤝 Let's Connect
+<p align="center"><img src="assets/title-connect.svg" width="240" alt="Let's Connect" /></p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/samarth-pal-908922290/" target="_blank">

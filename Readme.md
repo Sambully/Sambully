@@ -1,18 +1,17 @@
 <a href="https://github.com/Sambully">
-  <img src="assets/hero.svg" width="100%" alt="Samarth Pal — Full Stack Engineer / AI & Robotics Builder" />
+  <img src="assets/hero.svg" width="100%" alt="Samarth Pal — Full Stack Engineer" />
 </a>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Full--Stack-Engineer-00f5ff?style=for-the-badge&labelColor=0a0e27" alt="Full-Stack Engineer" />
-  <img src="https://img.shields.io/badge/AI%20%26%20Robotics-Builder-8b5cf6?style=for-the-badge&labelColor=0a0e27" alt="AI & Robotics Builder" />
-  <img src="https://img.shields.io/badge/Open%20to-Internships-00f5ff?style=for-the-badge&labelColor=0a0e27" alt="Open to Internships" />
+  <img src="https://img.shields.io/badge/Full--Stack-Engineer-34d399?style=for-the-badge&labelColor=0d1117" alt="Full-Stack Engineer" />
+  <img src="https://img.shields.io/badge/Open%20to-Internships-fbbf24?style=for-the-badge&labelColor=0d1117" alt="Open to Internships" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Sambully&label=Profile%20Views&color=8b5cf6&style=flat-square" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Sambully&label=Profile%20Views&color=34d399&style=flat-square" alt="Profile views" />
   <a href="https://www.linkedin.com/in/samarth-pal-908922290/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:samarthpal231251@acropolis.in"><img src="https://img.shields.io/badge/Email-Say%20Hi-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
-  <img src="https://img.shields.io/badge/Based%20in-Indore,%20India-1f6feb?style=flat-square&logo=googlemaps&logoColor=white" alt="Location" />
+  <img src="https://img.shields.io/badge/Based%20in-Indore,%20India-fbbf24?style=flat-square&logo=googlemaps&logoColor=0d1117" alt="Location" />
 </p>
 
 <img src="assets/divider.svg" width="100%" alt="" />
@@ -20,9 +19,9 @@
 ## 👋 About Me
 
 I'm **Samarth** — a Computer Science engineering student and full-stack developer who enjoys
-turning real-world problems into working software, with a growing focus on applied AI and robotics.
+turning real-world problems into working software, with a growing focus on applied AI.
 
-- 🔭 **Currently building** — AI agents, computer vision systems, and VLA-based robotics as a **Fullstack & AI Engineer Intern**
+- 🔭 **Currently building** — AI agents and intelligent automation systems as a **Fullstack & AI Engineer Intern**
 - 🧠 **Focused on** — full-stack architecture, AI agent pipelines, and automation workflows
 - 🌱 **Sharpening** — agentic AI systems, Data Structures & Algorithms
 - 🎓 **B.Tech in Computer Science** — AITR Indore, affiliated to RGPV Bhopal &nbsp;(CGPA 8.04, Class of 2027)
@@ -122,8 +121,8 @@ one another directly, with no money involved.
 </td></tr>
 <tr><td align="center"><b>Tools & AI</b></td><td>
 <img src="https://skillicons.dev/icons?i=git,github,docker,figma&theme=dark" height="42" alt="Git, GitHub, Docker, Figma" />
-&nbsp;<img src="https://img.shields.io/badge/Claude%20Code-D97757?style=flat&labelColor=0a0e27" height="28" alt="Claude Code" />
-&nbsp;<img src="https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white&labelColor=0a0e27" height="28" alt="n8n" />
+&nbsp;<img src="https://img.shields.io/badge/Claude%20Code-D97757?style=flat&labelColor=0d1117" height="28" alt="Claude Code" />
+&nbsp;<img src="https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white&labelColor=0d1117" height="28" alt="n8n" />
 </td></tr>
 </table>
 
@@ -135,7 +134,7 @@ one another directly, with no money involved.
 |:---|:---|
 | **SBI Life Hack-AI-Thon** — Le Meridien, New Delhi | 🥈 Semifinalist |
 | **CodeSpire 3.0** — College Hackathon | 🔟 Top 10 Finish |
-| **CodeSpire 2.0** | ✅ Cleared First Round |
+| **CodeSpire 2.0** | 🏁 Finalist |
 | **CodeRelay** | 🧩 Showcased Problem-Solving Skills |
 
 <img src="assets/divider.svg" width="100%" alt="" />
@@ -143,8 +142,8 @@ one another directly, with no money involved.
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="185em" src="https://github-readme-stats.vercel.app/api?username=Sambully&show_icons=true&count_private=true&include_all_commits=true&hide=stars,prs,issues&theme=tokyonight&hide_border=true&border_radius=10" alt="Samarth's GitHub stats" />
-  <img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sambully&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&border_radius=10" alt="Top languages" />
+  <img height="185em" src="https://github-readme-stats.vercel.app/api?username=Sambully&show_icons=true&include_all_commits=true&hide=stars,prs,issues&hide_border=true&border_radius=10&bg_color=0d1117&title_color=34d399&icon_color=fbbf24&text_color=c9d1d9" alt="Samarth's GitHub stats" />
+  <img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sambully&layout=compact&langs_count=8&hide_border=true&border_radius=10&bg_color=0d1117&title_color=34d399&text_color=c9d1d9" alt="Top languages" />
 </p>
 
 <img src="assets/divider.svg" width="100%" alt="" />
@@ -163,6 +162,6 @@ one another directly, with no money involved.
   </a>
 </p>
 
-<p align="center"><i>💡 Open to internships, freelance builds, and collaborating on projects that solve real problems. Let's build something.</i></p>
+<p align="center"><i>💡 If you're hiring for internships, need an extra pair of hands on a build, or just want to talk shop about AI agents — my inbox is open.</i></p>
 
-<img src="assets/footer.svg" width="100%" alt="Build · Ship · Repeat" />
+<img src="assets/footer.svg" width="100%" alt="Samarth Pal footer" />

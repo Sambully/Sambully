@@ -1,56 +1,56 @@
-<svg width="1200" height="300" viewBox="0 0 1200 300" xmlns="http://www.w3.org/2000/svg">
+<svg width="1200" height="360" viewBox="0 0 1200 360" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#0a0e27"/>
-      <stop offset="50%" stop-color="#131a3d"/>
-      <stop offset="100%" stop-color="#0a0e27"/>
+      <stop offset="0%" stop-color="#0d1117"/>
+      <stop offset="100%" stop-color="#161b22"/>
     </linearGradient>
-    <linearGradient id="glow" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#00f5ff"/>
-      <stop offset="50%" stop-color="#8b5cf6"/>
-      <stop offset="100%" stop-color="#00f5ff"/>
-      <animateTransform attributeName="gradientTransform" type="translate" from="-1 0" to="1 0" dur="4s" repeatCount="indefinite"/>
+    <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#34d399"/>
+      <stop offset="100%" stop-color="#fbbf24"/>
     </linearGradient>
-    <filter id="softGlow" x="-50%" y="-50%" width="200%" height="200%">
-      <feGaussianBlur stdDeviation="6" result="blur"/>
-      <feMerge>
-        <feMergeNode in="blur"/>
-        <feMergeNode in="SourceGraphic"/>
-      </feMerge>
-    </filter>
-    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
-      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#1e2749" stroke-width="1"/>
+    <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse">
+      <path d="M 36 0 L 0 0 0 36" fill="none" stroke="#1f2630" stroke-width="1"/>
     </pattern>
   </defs>
 
-  <rect width="1200" height="300" fill="url(#bg)"/>
-  <rect width="1200" height="300" fill="url(#grid)" opacity="0.4"/>
+  <rect width="1200" height="360" rx="14" fill="url(#bg)"/>
+  <rect width="1200" height="360" rx="14" fill="url(#grid)" opacity="0.5"/>
+  <rect x="1" y="1" width="1198" height="358" rx="13" fill="none" stroke="#30363d" stroke-width="1.5"/>
 
-  <circle cx="1080" cy="60" r="1.5" fill="#00f5ff">
-    <animate attributeName="opacity" values="0.2;1;0.2" dur="2.5s" repeatCount="indefinite"/>
-  </circle>
-  <circle cx="120" cy="240" r="1.5" fill="#8b5cf6">
-    <animate attributeName="opacity" values="1;0.2;1" dur="3s" repeatCount="indefinite"/>
-  </circle>
-  <circle cx="1000" cy="220" r="1" fill="#00f5ff">
-    <animate attributeName="opacity" values="0.3;1;0.3" dur="1.8s" repeatCount="indefinite"/>
-  </circle>
-  <circle cx="200" cy="50" r="1" fill="#8b5cf6">
-    <animate attributeName="opacity" values="1;0.3;1" dur="2.2s" repeatCount="indefinite"/>
-  </circle>
+  <!-- window title bar -->
+  <rect x="1" y="1" width="1198" height="46" rx="13" fill="#161b22"/>
+  <rect x="1" y="34" width="1198" height="13" fill="#161b22"/>
+  <circle cx="34" cy="24" r="7" fill="#ff5f56"/>
+  <circle cx="58" cy="24" r="7" fill="#ffbd2e"/>
+  <circle cx="82" cy="24" r="7" fill="#27c93f"/>
+  <text x="600" y="29" font-family="'Cascadia Code','Courier New',monospace" font-size="13" fill="#8b949e" text-anchor="middle">samarth@github &#8212; zsh &#8212; 120x24</text>
 
-  <text x="600" y="140" font-family="'Courier New', monospace" font-size="15" fill="#8b5cf6" text-anchor="middle" opacity="0.8">&lt;developer profile /&gt;</text>
+  <!-- terminal body -->
+  <g font-family="'Cascadia Code','Courier New',monospace" font-size="22">
+    <text x="46" y="100" fill="#34d399">samarth@dev<tspan fill="#8b949e">:</tspan><tspan fill="#58a6ff">~</tspan><tspan fill="#8b949e">$</tspan><tspan fill="#e6edf3"> whoami</tspan></text>
 
-  <text x="600" y="200" font-family="'Segoe UI', Arial, sans-serif" font-size="68" font-weight="800" fill="url(#glow)" text-anchor="middle" filter="url(#softGlow)" letter-spacing="4">
-    SAMARTH PAL
-    <animate attributeName="opacity" values="0.85;1;0.85" dur="3s" repeatCount="indefinite"/>
-  </text>
+    <text x="46" y="150" font-size="46" font-weight="700" fill="url(#accent)" opacity="0">
+      Samarth Pal
+      <animate attributeName="opacity" from="0" to="1" begin="0.6s" dur="0.4s" fill="freeze"/>
+    </text>
 
-  <text x="600" y="245" font-family="'Courier New', monospace" font-size="20" fill="#00f5ff" text-anchor="middle" letter-spacing="3">
-    FULL STACK ENGINEER
-    <tspan fill="#8b5cf6"> // </tspan>
-    AI &amp; ROBOTICS BUILDER
-  </text>
+    <text x="46" y="210" fill="#34d399" opacity="0">
+      samarth@dev<tspan fill="#8b949e">:</tspan><tspan fill="#58a6ff">~</tspan><tspan fill="#8b949e">$</tspan><tspan fill="#e6edf3"> cat role.txt</tspan>
+      <animate attributeName="opacity" from="0" to="1" begin="1.4s" dur="0.3s" fill="freeze"/>
+    </text>
 
-  <line x1="350" y1="270" x2="850" y2="270" stroke="url(#glow)" stroke-width="1.5" opacity="0.6"/>
+    <text x="46" y="255" font-size="24" fill="#e6edf3" opacity="0">
+      Full-Stack Engineer <tspan fill="#fbbf24">building products end-to-end</tspan>
+      <animate attributeName="opacity" from="0" to="1" begin="2s" dur="0.4s" fill="freeze"/>
+    </text>
+
+    <text x="46" y="305" fill="#34d399" opacity="0">
+      samarth@dev<tspan fill="#8b949e">:</tspan><tspan fill="#58a6ff">~</tspan><tspan fill="#8b949e">$</tspan>
+      <animate attributeName="opacity" from="0" to="1" begin="2.7s" dur="0.3s" fill="freeze"/>
+    </text>
+    <rect x="196" y="288" width="13" height="24" fill="#e6edf3" opacity="0">
+      <animate attributeName="opacity" from="0" to="1" begin="2.7s" dur="0.3s" fill="freeze"/>
+      <animate attributeName="opacity" values="1;0;1" begin="3s" dur="1s" repeatCount="indefinite"/>
+    </rect>
+  </g>
 </svg>

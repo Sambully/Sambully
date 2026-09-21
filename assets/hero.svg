@@ -1,0 +1,56 @@
+<svg width="1200" height="300" viewBox="0 0 1200 300" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0a0e27"/>
+      <stop offset="50%" stop-color="#131a3d"/>
+      <stop offset="100%" stop-color="#0a0e27"/>
+    </linearGradient>
+    <linearGradient id="glow" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00f5ff"/>
+      <stop offset="50%" stop-color="#8b5cf6"/>
+      <stop offset="100%" stop-color="#00f5ff"/>
+      <animateTransform attributeName="gradientTransform" type="translate" from="-1 0" to="1 0" dur="4s" repeatCount="indefinite"/>
+    </linearGradient>
+    <filter id="softGlow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="6" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#1e2749" stroke-width="1"/>
+    </pattern>
+  </defs>
+
+  <rect width="1200" height="300" fill="url(#bg)"/>
+  <rect width="1200" height="300" fill="url(#grid)" opacity="0.4"/>
+
+  <circle cx="1080" cy="60" r="1.5" fill="#00f5ff">
+    <animate attributeName="opacity" values="0.2;1;0.2" dur="2.5s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="120" cy="240" r="1.5" fill="#8b5cf6">
+    <animate attributeName="opacity" values="1;0.2;1" dur="3s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="1000" cy="220" r="1" fill="#00f5ff">
+    <animate attributeName="opacity" values="0.3;1;0.3" dur="1.8s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="200" cy="50" r="1" fill="#8b5cf6">
+    <animate attributeName="opacity" values="1;0.3;1" dur="2.2s" repeatCount="indefinite"/>
+  </circle>
+
+  <text x="600" y="140" font-family="'Courier New', monospace" font-size="15" fill="#8b5cf6" text-anchor="middle" opacity="0.8">&lt;developer profile /&gt;</text>
+
+  <text x="600" y="200" font-family="'Segoe UI', Arial, sans-serif" font-size="68" font-weight="800" fill="url(#glow)" text-anchor="middle" filter="url(#softGlow)" letter-spacing="4">
+    SAMARTH PAL
+    <animate attributeName="opacity" values="0.85;1;0.85" dur="3s" repeatCount="indefinite"/>
+  </text>
+
+  <text x="600" y="245" font-family="'Courier New', monospace" font-size="20" fill="#00f5ff" text-anchor="middle" letter-spacing="3">
+    FULL STACK ENGINEER
+    <tspan fill="#8b5cf6"> // </tspan>
+    AI &amp; ROBOTICS BUILDER
+  </text>
+
+  <line x1="350" y1="270" x2="850" y2="270" stroke="url(#glow)" stroke-width="1.5" opacity="0.6"/>
+</svg>
